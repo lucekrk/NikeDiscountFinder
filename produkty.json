@@ -1,0 +1,20 @@
+[
+  {
+    "title": "przyklad",
+    "subtitle": "usun",
+    "link": "to",
+    "price-before": "jak",
+    "price-after": "bedziesz",
+    "discount": "wklejac",
+    "imageUrl": "swoje"
+  },
+  {
+    "title": "dane",
+    "subtitle": "tego",
+    "link": "typu",
+    "price-before": "tak",
+    "price-after": "to",
+    "discount": "ma",
+    "imageUrl": "wygladac"
+  },
+]
